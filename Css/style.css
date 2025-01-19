@@ -991,7 +991,7 @@ img {
   }
 
   .header {
-    top: 0;
+    top: initial;
     bottom: initial;
   }
 
