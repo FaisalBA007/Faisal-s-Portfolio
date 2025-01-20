@@ -435,7 +435,7 @@ img {
 
 /* skills  */
 .skills-content {
-  display: flex;
+  display:flex;
   flex-wrap: wrap;
 }
 
